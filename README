@@ -1,0 +1,7 @@
+OpenWrt with TP-Link Archer A6 EU/RU/JP support
+
+Available 8MB instead of 16MB as it should be
+
+1. Download from openwrt-ath79-generic-tplink_archer-c6-v2-squashfs-factory.bin from /bin/targets/ath79/generic/
+2. Rename it to ArcherC6v2_tp_recovery.bin
+3. Use tftp methdod for flush
